@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/GradMeta/app/src/main/res/layout/activity_join.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/GradMeta/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/GradMeta/app/src/main/res/layout/dialog_login.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Metaverse/app/src/main/res/layout/activity_join.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Metaverse/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Metaverse/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/drawable/button_selector.xml" value="0.1" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/drawable/friend.xml" value="0.19375" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/drawable/home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/drawable/layout_background.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/drawable/menu_selector_color.xml" value="0.35625" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/drawable/rounded_corner.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_chooseavatar.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_chooseguestavatar.xml" value="0.3359375" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_classroom.xml" value="0.18" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_createmap.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_friendprofile.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_game.xml" value="0.1" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_guestcreatedmap.xml" value="0.13125" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_guesthome.xml" value="0.3149171270718232" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_guestmap.xml" value="0.13125" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_home.xml" value="0.3359375" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_join.xml" value="0.3359375" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_login.xml" value="0.3359375" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_map.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_myprofile.xml" value="0.3359375" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_office.xml" value="0.1" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/activity_snow.xml" value="0.25" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/fragment_friend.xml" value="0.33" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/fragment_guestfriend.xml" value="0.3359375" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/fragment_guesthome.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/fragment_guestsetting.xml" value="0.13125" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/recycler_avatar.xml" value="0.15625" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/recycler_item.xml" value="0.67" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/layout/recycler_map.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/menu/bottom_menu.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/cogus/AndroidStudioProjects/Testmeta/app/src/main/res/menu/bottom_menu_guest.xml" value="0.13125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
